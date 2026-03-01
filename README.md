@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kusum Meda Ravi
 
-🎓 **Master’s in Computer Science (Machine Learning Specialization)**
+🎓 **Master’s in Computer Science (Computing Systems and Machine Learning Specialization)**
 📍 Georgia Institute of Technology
 💻 Former Software Engineer @ Hewlett Packard Enterprise
 ⚡ Passionate about **ML Systems, Distributed Systems, LLM Inference, and Performance Engineering**
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a **Machine Learning Systems Engineer** focused on building scalable, high-performance AI infrastructure. My work sits at the intersection of:
+I am a **Systems and Machine Learning Engineer** focused on building scalable, high-performance AI infrastructure. My work sits at the intersection of:
 
 * 🤖 **Machine Learning**
 * ⚙️ **Systems Engineering**
