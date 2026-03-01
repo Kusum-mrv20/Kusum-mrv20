@@ -210,7 +210,7 @@ Specialization in Artificial Intelligence & Data Science
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(https://www.linkedin.com/in/kusum-meda-ravi-9188951a3/)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/kusum-meda-ravi-9188951a3/*
 * 📧 Email: *kusum.mrv@gmail.com*
 
 ---
